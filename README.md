@@ -8,3 +8,5 @@ cara installasi
 1. clone atau download source code
 2. running dengan cara
 3. python cryptograph.py
+
+![alt text](https://raw.githubusercontent.com/luqni/projectname/branch/path/to/img.png)
