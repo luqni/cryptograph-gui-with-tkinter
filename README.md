@@ -9,4 +9,4 @@ cara installasi
 2. running dengan cara
 3. python cryptograph.py
 
-![alt text](https://raw.githubusercontent.com/luqni/projectname/branch/path/to/img.png)
+![alt text](https://raw.githubusercontent.com/luqni/cryptograph-gui-with-tkinter/blob/master/Screenshot_2018-09-29_14-07-46.png)
