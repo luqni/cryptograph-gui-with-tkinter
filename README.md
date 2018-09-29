@@ -7,4 +7,4 @@ sistem operasi ubuntu
 cara installasi
 1. clone atau download source code
 2. running dengan cara
-3. python steganograph.py
+3. python cryptograph.py
